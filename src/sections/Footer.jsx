@@ -41,10 +41,10 @@ const Footer = () => {
         <h1 ClassName='text-xl font-semibold'>PAGES</h1>
         <ul className='flex flex-col justify-center items-start gap-4 mt-10'>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Home</li>
-        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Services</li>
+        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Service</li>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Testimonials</li>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Pricing</li>
-        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Contact</li>
+        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Contacts</li>
       </ul>
 
       </div>
@@ -52,10 +52,10 @@ const Footer = () => {
         <h1 ClassName='text-xl font-semibold'>PAGES</h1>
         <ul className='flex flex-col justify-center items-start gap-4 mt-10'>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Home</li>
-        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Services</li>
+        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Service</li>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Testimonials</li>
         <li className='text-slate-300 cursor-pointer hover:text-green-300'>Pricing</li>
-        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Contact</li>
+        <li className='text-slate-300 cursor-pointer hover:text-green-300'>Contacts</li>
       </ul>
 
       </div>
